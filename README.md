@@ -1,2 +1,4 @@
 # PRODIGY_ML_03
-Intern at Prodigy Infotech, working on Machine Learning projects. This repository stores my projects and implementations.
+Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
+
+Dataset :- https://www.kaggle.com/c/dogs-vs-cats/data
